@@ -6,6 +6,12 @@
    ========================================================================== */
 
 :root {
+  /* The palette is deliberately single-theme: a study tool that has to stay a
+     calm workbook, per the brief. Every colour is painted explicitly from a
+     token so the page holds on any host ground, and color-scheme is pinned so
+     the browser does not render textareas and inputs dark underneath it. */
+  color-scheme: light;
+
   --bg: #FAFAF8;
   --surface: #FFFFFF;
   --surface-2: #FCFCFA;
