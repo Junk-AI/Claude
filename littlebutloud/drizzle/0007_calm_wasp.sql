@@ -1,1 +1,0 @@
-ALTER TABLE `past_events` ADD `photosPassword` varchar(255);

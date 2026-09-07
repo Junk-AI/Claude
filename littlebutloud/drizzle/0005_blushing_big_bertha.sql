@@ -1,1 +1,0 @@
-ALTER TABLE `member_accounts` ADD `plainPassword` varchar(255) NOT NULL;

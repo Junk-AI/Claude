@@ -1,1 +1,0 @@
-ALTER TABLE `past_events` ADD `photosUrl` text;
